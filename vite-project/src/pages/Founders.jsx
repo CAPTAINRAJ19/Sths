@@ -25,7 +25,7 @@ function Founders() {
     {
       name: "Rakesh Bahadur Singh",
       role: "Co-Founder & Director",
-      image: "/src/assets/img/Rakesh.jpg",
+      image: "public/assets/img/rakesh.jpg",
       message: "At SWASTH TRUE LIFE, we believe that exceptional healthcare infrastructure is the foundation of saving lives. Our mission is to create state-of-the-art medical facilities that not only meet today's healthcare challenges but anticipate tomorrow's innovations. Every project we undertake is driven by our commitment to excellence, safety, and the wellbeing of patients across India.",
       expertise: ["Healthcare Infrastructure", "Project Management", "Strategic Planning", "Regulatory Compliance"],
       vision: "Transforming healthcare delivery through innovative infrastructure solutions"
@@ -33,7 +33,7 @@ function Founders() {
     {
       name: "Ratnesh Kumar Tiwari",
       role: "Co-Founder & Director",
-      image: "/src/assets/img/Ratnesh.jpg",
+      image: "public/assets/img/ratnesh.jpg",
       message: "Healthcare infrastructure is more than construction—it's about creating healing environments that enhance patient outcomes and support medical professionals in their vital work. Our comprehensive approach, from concept to commissioning, ensures that every facility we build becomes a beacon of hope and healing in the community it serves.",
       expertise: ["Technical Systems", "Medical Technology", "Quality Assurance", "Operational Excellence"],
       vision: "Building the future of healthcare, one facility at a time"
