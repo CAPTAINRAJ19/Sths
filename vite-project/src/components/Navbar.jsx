@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import { useTheme } from "../context/ThemeContext";
 import { useEffect, useState } from "react";
-import logoWhite from '../../public/assets/img/logoteal2.png';
-import logoBlack from '../../public/assets/img/logoblack.png';
+import logoWhite from '/assets/img/logoteal2.png';
+import logoBlack from '/assets/img/logoblack.png';
 
 import {
   auth,

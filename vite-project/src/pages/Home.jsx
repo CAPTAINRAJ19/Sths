@@ -12,22 +12,22 @@ const Home = () => {
 
   // Medical facility images from local assets
   const facilityImages = [
-    "../public/assets/img/pics/p1.png",
-    "../public/assets/img/pics/p2.png",
-    "../public/assets/img/pics/p3.png",
-    "../public/assets/img/pics/p4.png",
-    "../public/assets/img/pics/p5.png",
-    "../public/assets/img/pics/p6.png",
-    "../public/assets/img/pics/p7.png",
-    "../public/assets/img/pics/p8.png",
-    "../public/assets/img/pics/p9.png",
-    "../public/assets/img/pics/p10.png",
-    "../public/assets/img/pics/p11.png",
-    "../public/assets/img/pics/p12.png",
-    "../public/assets/img/pics/p13.png",
-    "../public/assets/img/pics/p14.png",
-    "../public/assets/img/pics/p15.png",
-    "../public/assets/img/pics/p17.png"
+    "/assets/img/pics/p1.png",
+    "/assets/img/pics/p2.png",
+    "/assets/img/pics/p3.png",
+    "/assets/img/pics/p4.png",
+    "/assets/img/pics/p5.png",
+    "/assets/img/pics/p6.png",
+    "/assets/img/pics/p7.png",
+    "/assets/img/pics/p8.png",
+    "/assets/img/pics/p9.png",
+    "/assets/img/pics/p10.png",
+    "/assets/img/pics/p11.png",
+    "/assets/img/pics/p12.png",
+    "/assets/img/pics/p13.png",
+    "/assets/img/pics/p14.png",
+    "/assets/img/pics/p15.png",
+    "/assets/img/pics/p17.png"
   ];
 
   // Company quotes that rotate

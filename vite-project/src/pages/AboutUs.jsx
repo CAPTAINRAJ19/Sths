@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import { Building2, Users, Award, MapPin, ClipboardCheck, Layers, HeartPulse, Wifi, Shield, Settings, ArrowRight, CheckCircle, Target, Lightbulb, Zap, ArrowUp } from "lucide-react";
-import logoTeal from '../../public/assets/img/logoteal.png';
+import logoTeal from '/assets/img/logoteal.png';
 
 const AboutUs = () => {
   const { darkMode } = useTheme();
