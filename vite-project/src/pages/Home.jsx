@@ -348,7 +348,7 @@ const Home = () => {
                 <div className="space-y-3 text-gray-400">
                   <div className="flex items-center space-x-2">
                     <Phone className="h-4 w-4" />
-                    <span>+91 XXX XXX XXXX</span>
+                    <span>+91 9918618100</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <Mail className="h-4 w-4" />
@@ -428,7 +428,7 @@ const Home = () => {
           
           {/* Phone Button */}
           <button
-            onClick={() => copyToClipboard('+91 XXX XXX XXXX', 'Phone number copied to clipboard!')}
+            onClick={() => copyToClipboard('+91 9918618100', 'Phone number copied to clipboard!')}
             className={`p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 ${
               darkMode ? 'bg-green-500 hover:bg-green-600 text-white' : 'bg-green-600 hover:bg-green-700 text-white'
             }`}
@@ -724,7 +724,7 @@ const Home = () => {
         
         {/* Phone Button */}
         <button
-          onClick={() => copyToClipboard('+91 XXX XXX XXXX', 'Phone number copied to clipboard!')}
+          onClick={() => copyToClipboard('+91 9918618100', 'Phone number copied to clipboard!')}
           className={`p-3 rounded-full shadow-lg transition-all duration-300 hover:scale-110 ${
             darkMode ? 'bg-green-500 hover:bg-green-600 text-white' : 'bg-green-600 hover:bg-green-700 text-white'
           }`}
